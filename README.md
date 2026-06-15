@@ -49,7 +49,7 @@ O circuito foi projetado sobre uma matriz de contatos (Protoboard) alimentada di
 Abaixo você encontra o link para a simulação completa do circuito operando perfeitamente e o vídeo de apresentação do projeto em tempo real.
 
 * **Simulação Interativa (Wokwi):** [Care Plus - Simulador Wokwi](https://wokwi.com/projects/462510376052402177)
-* **Vídeo de Apresentação (YouTube):** [Insira o link do seu vídeo aqui]
+* **Vídeo de Apresentação (YouTube):**
 
 ---
 
